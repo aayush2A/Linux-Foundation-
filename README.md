@@ -1,1 +1,2 @@
-Task for completing Linux foundation
+Task for completing Linux foundation´s Linux kernel internship
+
